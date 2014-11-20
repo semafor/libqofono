@@ -1,8 +1,6 @@
 /*
- * This file is part of ofono-qt
  *
- * Copyright (C) 2010 Nokia Corporation and/or its subsidiary(-ies).
- *
+ * Copyright (C) 2014 Canonical Ltd.
  * Contact: Jonas G. Drange <jonas.drange@canonical.com>
  *
  * This library is free software; you can redistribute it and/or
